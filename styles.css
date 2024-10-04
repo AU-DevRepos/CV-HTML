@@ -4,4 +4,8 @@
 
 .contenedor{
     padding-left:75px;
+    max-width: 50%
+}
+body{
+    background-color: lightsteelblue; /* Aquí defines el color de fondo */   
 }
